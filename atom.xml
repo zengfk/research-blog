@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>虎头微分同学的Blog</title>
+  
+  
+  <link href="https://zengfk.com.cn/atom.xml" rel="self"/>
+  
+  <link href="https://zengfk.com.cn/"/>
+  <updated>2021-04-06T06:48:03.712Z</updated>
+  <id>https://zengfk.com.cn/</id>
+  
+  <author>
+    <name>Zengfk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>群的例子</title>
+    <link href="https://zengfk.com.cn/2021/04/02/%E7%BE%A4%E7%9A%84%E4%BE%8B%E5%AD%90/"/>
+    <id>https://zengfk.com.cn/2021/04/02/%E7%BE%A4%E7%9A%84%E4%BE%8B%E5%AD%90/</id>
+    <published>2021-04-02T10:22:11.000Z</published>
+    <updated>2021-04-06T06:48:03.712Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这里记录一些重要的群的例子, 以备参考.&lt;/p&gt;
+&lt;h2 id=&quot;常见的群的例子&quot;&gt;&lt;a href=&quot;#常见的群的例子&quot; class=&quot;headerlink&quot; title=&quot;常见的群的例子&quot;&gt;&lt;/a&gt;常见的群的例子&lt;/h2&gt;&lt;p&gt;这里给出一些重要的群的例子. &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="代数学/Algebra" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E4%BB%A3%E6%95%B0%E5%AD%A6-Algebra/"/>
+    
+    
+    <category term="Notes" scheme="https://zengfk.com.cn/tags/Notes/"/>
+    
+    <category term="重温 &amp; 新知" scheme="https://zengfk.com.cn/tags/%E9%87%8D%E6%B8%A9-%E6%96%B0%E7%9F%A5/"/>
+    
+    <category term="群论" scheme="https://zengfk.com.cn/tags/%E7%BE%A4%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>复分析小品-生成函数</title>
+    <link href="https://zengfk.com.cn/2021/03/13/%E5%A4%8D%E5%88%86%E6%9E%90%E5%B0%8F%E5%93%81-%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0/"/>
+    <id>https://zengfk.com.cn/2021/03/13/%E5%A4%8D%E5%88%86%E6%9E%90%E5%B0%8F%E5%93%81-%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0/</id>
+    <published>2021-03-13T10:20:15.000Z</published>
+    <updated>2021-04-06T06:27:39.530Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;关于生成函数, 以下直接引用 wiki 百科上的介绍:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In mathematics, &lt;strong&gt;a generating function is a way of encoding an infinite sequence of numbers ($a_n$) by treating them as the coefficients of a formal power series. This series is called the generating function of the sequence.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Unlike an ordinary series, the formal power series is not required to converge: in fact, the generating function is not actually regarded as a function, and the “variable” remains an indeterminate. Generating functions were first introduced by Abraham de Moivre in 1730, in order to solve the general linear recurrence problem. One can generalize to formal power series in more than one indeterminate, to encode information about infinite multi-dimensional arrays of numbers.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正如这段介绍中所说, &lt;strong&gt;生成函数&lt;/strong&gt;就是描述数列的另一种不同的方法而已, 这种方法将整个序列视作了一个对象进行考虑, 更具体的说, 就是个幂级数, 其系数有着某些特定含义.&lt;/p&gt;
+&lt;p&gt;作为一篇小品, 本文只简单介绍一下生成函数定义, 并利用该方法研究斐波那契数列.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="分析学/Analysis" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%88%86%E6%9E%90%E5%AD%A6-Analysis/"/>
+    
+    
+    <category term="Notes" scheme="https://zengfk.com.cn/tags/Notes/"/>
+    
+    <category term="重温 &amp; 新知" scheme="https://zengfk.com.cn/tags/%E9%87%8D%E6%B8%A9-%E6%96%B0%E7%9F%A5/"/>
+    
+    <category term="复分析" scheme="https://zengfk.com.cn/tags/%E5%A4%8D%E5%88%86%E6%9E%90/"/>
+    
+    <category term="生成函数" scheme="https://zengfk.com.cn/tags/%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>复分析小品-分式线性变换</title>
+    <link href="https://zengfk.com.cn/2021/03/01/%E5%A4%8D%E5%88%86%E6%9E%90%E5%B0%8F%E5%93%81-%E5%88%86%E5%BC%8F%E7%BA%BF%E6%80%A7%E5%8F%98%E6%8D%A2/"/>
+    <id>https://zengfk.com.cn/2021/03/01/%E5%A4%8D%E5%88%86%E6%9E%90%E5%B0%8F%E5%93%81-%E5%88%86%E5%BC%8F%E7%BA%BF%E6%80%A7%E5%8F%98%E6%8D%A2/</id>
+    <published>2021-03-01T06:11:44.000Z</published>
+    <updated>2021-04-06T06:27:33.920Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在复分析中的几何理论中, 有一个有趣而且重要的主题, 即&lt;strong&gt;共形映射&lt;/strong&gt;. 其中有一类很自然的解析函数类——&lt;strong&gt;分式线性变换&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;考虑以下有理函数&lt;/p&gt;
+&lt;p&gt;$$f(z) = \frac{az+b}{cz+d}$$&lt;/p&gt;
+&lt;p&gt;其中，$a,b,c,d$ 均为复数. 要使得以上函数具有良好的定义, 很自然, 需要要求 $c,d$ 不能同时为 $0$; 另一方面, 为了保证函数不会退化成常数函数, 则需要满足 $a/c \neq b/d$. &lt;/p&gt;
+&lt;p&gt;综合来说, 当以上有理函数满足 $ad-bc\neq 0$ 时, 我们称之为一个分式线性变换. 我们都知道: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分式线性变换的复合还是一个分式线性变换变换.&lt;/li&gt;
+&lt;li&gt;任何分式线性变换都可以表示为三种简单变换的复合, 即:平移、旋转、反演的复合.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;关于分式线性变换的很多性质, 留到谈共形映射时再谈. 以下提供一个有意思的视角, 也许能帮助我们更容易的认识分式线性变换. &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="分析学/Analysis" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%88%86%E6%9E%90%E5%AD%A6-Analysis/"/>
+    
+    
+    <category term="Notes" scheme="https://zengfk.com.cn/tags/Notes/"/>
+    
+    <category term="重温 &amp; 新知" scheme="https://zengfk.com.cn/tags/%E9%87%8D%E6%B8%A9-%E6%96%B0%E7%9F%A5/"/>
+    
+    <category term="复分析" scheme="https://zengfk.com.cn/tags/%E5%A4%8D%E5%88%86%E6%9E%90/"/>
+    
+    <category term="几何" scheme="https://zengfk.com.cn/tags/%E5%87%A0%E4%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记整理1</title>
+    <link href="https://zengfk.com.cn/2020/04/02/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%861/"/>
+    <id>https://zengfk.com.cn/2020/04/02/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%861/</id>
+    <published>2020-04-02T02:29:48.000Z</published>
+    <updated>2021-03-09T06:43:03.090Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这里分类整理一些近 4 年读书的摘录笔记。这是文学诗词的一部分摘录&lt;/p&gt;
+&lt;h2 id=&quot;实际控制线-知乎「一小时」系列-龙牙-知乎&quot;&gt;&lt;a href=&quot;#实际控制线-知乎「一小时」系列-龙牙-知乎&quot; class=&quot;headerlink&quot; title=&quot;实际控制线 (知乎「一小时」系列) (龙牙;知乎)&quot;&gt;&lt;/a&gt;实际控制线 (知乎「一小时」系列) (龙牙;知乎)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;添加于 2016年5月13日星期五 上午5:32:15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我曾经在青藏公路上骑过长途自行车，从拉萨出发到格尔木，羊八井兵站里面有树，沿途再小的兵站都有树，甚至经过五道梁的时候，唐古拉山口几个部队院子里都是有树的。树就像军人一样，能在一切原本不该存活的地方活下来，长高长大，跟咱们当兵的作伴。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="书摘" scheme="https://zengfk.com.cn/categories/%E4%B9%A6%E6%91%98/"/>
+    
+    
+    <category term="读书摘录" scheme="https://zengfk.com.cn/tags/%E8%AF%BB%E4%B9%A6%E6%91%98%E5%BD%95/"/>
+    
+    <category term="文学" scheme="https://zengfk.com.cn/tags/%E6%96%87%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学分析习题解-一致收敛性、函数项级数与函数族的基本运算(2)</title>
+    <link href="https://zengfk.com.cn/2019/10/22/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3-%E4%B8%80%E8%87%B4%E6%94%B6%E6%95%9B%E6%80%A7%E3%80%81%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%97%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97-2/"/>
+    <id>https://zengfk.com.cn/2019/10/22/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3-%E4%B8%80%E8%87%B4%E6%94%B6%E6%95%9B%E6%80%A7%E3%80%81%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%97%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97-2/</id>
+    <published>2019-10-22T09:57:51.000Z</published>
+    <updated>2019-10-23T10:19:14.860Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;【习题来源】数学分析：第七版.（俄罗斯）卓里奇著；李植译. 北京：高等教育出版社，2019.2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;请研究下列级数当实参数 $\alpha$ 取各种值时在集合 $E\subset\mathbb{R}$ 上的收敛性.&lt;br&gt;a) $$\sum_{n=1}^{\infty}\frac{\cos nx}{n^\alpha};$$&lt;br&gt;b) $$\sum_{n=1}^{\infty}\frac{\sin nx}{n^\alpha}.$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;font color = red&gt;【解】&lt;/font&gt; 显然, 上述两个级数在 $\alpha\leqslant 0$ 时不收敛, 在 $\alpha &amp;gt; 1$ 时绝对一致收敛(强函数检验法). 考虑在 $0&amp;lt; \alpha \leqslant 1$ 时的情况.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="分析学/Analysis" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%88%86%E6%9E%90%E5%AD%A6-Analysis/"/>
+    
+    
+    <category term="习题集" scheme="https://zengfk.com.cn/tags/%E4%B9%A0%E9%A2%98%E9%9B%86/"/>
+    
+    <category term="一致收敛" scheme="https://zengfk.com.cn/tags/%E4%B8%80%E8%87%B4%E6%94%B6%E6%95%9B/"/>
+    
+    <category term="函数项级数" scheme="https://zengfk.com.cn/tags/%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0/"/>
+    
+    <category term="函数族" scheme="https://zengfk.com.cn/tags/%E5%87%BD%E6%95%B0%E6%97%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学分析习题解-一致收敛性、函数项级数与函数族的基本运算(1)</title>
+    <link href="https://zengfk.com.cn/2019/10/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3-%E4%B8%80%E8%87%B4%E6%94%B6%E6%95%9B%E6%80%A7%E3%80%81%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%97%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97-1/"/>
+    <id>https://zengfk.com.cn/2019/10/18/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3-%E4%B8%80%E8%87%B4%E6%94%B6%E6%95%9B%E6%80%A7%E3%80%81%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E6%97%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97-1/</id>
+    <published>2019-10-18T07:14:20.000Z</published>
+    <updated>2021-03-09T06:41:33.253Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;【习题来源】数学分析：第七版.（俄罗斯）卓里奇著；李植译. 北京：高等教育出版社，2019.2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;以下函数序列是否一致收敛?&lt;br&gt;a) $$f_n = \frac{\sin{nx}}{x^2}$$&lt;br&gt;b) $$f_n = 2(n+1)x(1-x^2)^n$$&lt;br&gt;c) $$f_n = \lim_{n\rightarrow\infty}(\cos m!\pi x)^{2n}$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;font color = red&gt;【解】&lt;/font&gt;  考察 $\Delta _n := \sup _{x\in E}|f(x) - f_n(x)|$ 在 $n\rightarrow \infty$ 时的情况即可. 容易得到 a) 一致收敛, b)、c) 不一致收敛. Q.E.D.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="分析学/Analysis" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%88%86%E6%9E%90%E5%AD%A6-Analysis/"/>
+    
+    
+    <category term="习题集" scheme="https://zengfk.com.cn/tags/%E4%B9%A0%E9%A2%98%E9%9B%86/"/>
+    
+    <category term="一致收敛" scheme="https://zengfk.com.cn/tags/%E4%B8%80%E8%87%B4%E6%94%B6%E6%95%9B/"/>
+    
+    <category term="函数项级数" scheme="https://zengfk.com.cn/tags/%E5%87%BD%E6%95%B0%E9%A1%B9%E7%BA%A7%E6%95%B0/"/>
+    
+    <category term="函数族" scheme="https://zengfk.com.cn/tags/%E5%87%BD%E6%95%B0%E6%97%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>切空间与切丛</title>
+    <link href="https://zengfk.com.cn/2019/09/26/%E5%88%87%E7%A9%BA%E9%97%B4%E4%B8%8E%E5%88%87%E4%B8%9B/"/>
+    <id>https://zengfk.com.cn/2019/09/26/%E5%88%87%E7%A9%BA%E9%97%B4%E4%B8%8E%E5%88%87%E4%B8%9B/</id>
+    <published>2019-09-26T05:44:10.000Z</published>
+    <updated>2019-09-29T09:04:31.690Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本文旨在以简单直观的方式介绍&lt;strong&gt;切空间&lt;/strong&gt;与&lt;strong&gt;切丛&lt;/strong&gt;的概念, 为之后的一系列准备发布的内容做知识上的准备.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在此, 有必要先辨析两个概念:”向量空间”, “流形”.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="分析学/Analysis" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%88%86%E6%9E%90%E5%AD%A6-Analysis/"/>
+    
+    
+    <category term="微分学" scheme="https://zengfk.com.cn/tags/%E5%BE%AE%E5%88%86%E5%AD%A6/"/>
+    
+    <category term="流形" scheme="https://zengfk.com.cn/tags/%E6%B5%81%E5%BD%A2/"/>
+    
+    <category term="切空间" scheme="https://zengfk.com.cn/tags/%E5%88%87%E7%A9%BA%E9%97%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>絮语微言集-8、9月</title>
+    <link href="https://zengfk.com.cn/2019/09/26/%E7%B5%AE%E8%AF%AD%E5%BE%AE%E8%A8%80%E9%9B%86-8%E3%80%819%E6%9C%88/"/>
+    <id>https://zengfk.com.cn/2019/09/26/%E7%B5%AE%E8%AF%AD%E5%BE%AE%E8%A8%80%E9%9B%86-8%E3%80%819%E6%9C%88/</id>
+    <published>2019-09-26T03:28:47.000Z</published>
+    <updated>2021-03-09T06:38:52.337Z</updated>
+    
+    
+    <summary type="html">&lt;h4 id=&quot;Aug-1st&quot;&gt;&lt;a href=&quot;#Aug-1st&quot; class=&quot;headerlink&quot; title=&quot;Aug 1st&quot;&gt;&lt;/a&gt;Aug 1st&lt;/h4&gt;&lt;p&gt;今天“八·一”, 致敬中国军人.&lt;/p&gt;
+&lt;p&gt;不过我在想的还有另外一件老生常谈的事, 叫做 &lt;strong&gt;“刻奇”&lt;/strong&gt;. 八一大家都在致敬军人, 军人也为自己的奉献而感到自豪与荣光, 里面有多少是发自内心的真情实感, 又有多少是”为自豪而自豪”, “为感动而感动”的刻奇呢? 我的圈子里军人不少, 谈起军队, 有人骄傲, 有人抱怨, 有人无奈, 有人也一直豪情澎湃. 是自己熟知的好友, 有多少真性情, 多少还是能够感受的到. 真心对日复一日的军事训练, 对军事武器, 对战争喜欢并投入的几位, 我时常会恍惚间在他们身上看到一点人性之光——没有多伟大, 就是一种诚挚的情感带来的感动.&lt;/p&gt;
+&lt;p&gt;说回自己学数学, 突然反思起自己大学以来对于这门学科的感情究竟是否真的那么真挚? 毕竟太多的人听说你是学数学的, 都常常感叹一句:”聪明人啊!”,”好厉害啊!”, “大神啊!” etc. &lt;/p&gt;
+&lt;p&gt;还好还好, 来自”外行人”的”吹捧”带来的虚无的快感在我学习数学的过程中占比极少, 我大概还能够不太心虚的说: &lt;strong&gt;我是一个对数学有真挚热爱的人&lt;/strong&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://zengfk.com.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="生活" scheme="https://zengfk.com.cn/categories/%E9%9A%8F%E7%AC%94/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="絮语微言" scheme="https://zengfk.com.cn/tags/%E7%B5%AE%E8%AF%AD%E5%BE%AE%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数交点, 估长度?</title>
+    <link href="https://zengfk.com.cn/2019/09/02/%E6%95%B0%E4%BA%A4%E7%82%B9-%E4%BC%B0%E9%95%BF%E5%BA%A6/"/>
+    <id>https://zengfk.com.cn/2019/09/02/%E6%95%B0%E4%BA%A4%E7%82%B9-%E4%BC%B0%E9%95%BF%E5%BA%A6/</id>
+    <published>2019-09-02T04:10:15.000Z</published>
+    <updated>2019-09-02T09:11:25.172Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;任意给出平面上的一条可求长曲线, 比如, 我们在纸上随手画的一条的曲线, 在不知道这条曲线具体的方程的情况下, 有没有什么简单的好办法能够比较精确的估计这条曲线的长度呢? 这里给出一个方法, 让我们&lt;strong&gt;数交点数量, 就能估计曲线长度&lt;/strong&gt;. &lt;/p&gt;
+&lt;h2 id=&quot;可求长曲线长度的近似估计&quot;&gt;&lt;a href=&quot;#可求长曲线长度的近似估计&quot; class=&quot;headerlink&quot; title=&quot;可求长曲线长度的近似估计&quot;&gt;&lt;/a&gt;可求长曲线长度的近似估计&lt;/h2&gt;&lt;h3 id=&quot;具体操作&quot;&gt;&lt;a href=&quot;#具体操作&quot; class=&quot;headerlink&quot; title=&quot;具体操作&quot;&gt;&lt;/a&gt;具体操作&lt;/h3&gt;&lt;p&gt;我们按照以下步骤来做:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以某一固定的间距 $r$ 画出一族平行线;&lt;/li&gt;
+&lt;li&gt;将这一族平行线旋转 $\frac{\pi}{4}$, $\frac{\pi}{2}$, $\frac{3\pi}{4}$, 这样我们一共得到四族平行线;&lt;/li&gt;
+&lt;li&gt;数出这四族平行线与待求长曲线的交点数量 $n$;&lt;/li&gt;
+&lt;li&gt;按如下公式计算曲线近似长度 $$L = \frac{1}{2}nr\frac{\pi}{4}.$$&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://zengfk.com.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="数学应用" scheme="https://zengfk.com.cn/categories/%E9%9A%8F%E7%AC%94/%E6%95%B0%E5%AD%A6%E5%BA%94%E7%94%A8/"/>
+    
+    
+    <category term="微分几何" scheme="https://zengfk.com.cn/tags/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95/"/>
+    
+    <category term="Cauchy-Crofton 公式" scheme="https://zengfk.com.cn/tags/Cauchy-Crofton-%E5%85%AC%E5%BC%8F/"/>
+    
+    <category term="可求长曲线" scheme="https://zengfk.com.cn/tags/%E5%8F%AF%E6%B1%82%E9%95%BF%E6%9B%B2%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>逼近理论简介-Bernstein 多项式</title>
+    <link href="https://zengfk.com.cn/2019/08/11/%E9%80%BC%E8%BF%91%E7%90%86%E8%AE%BA%E7%AE%80%E4%BB%8B-Bernstein-%E5%A4%9A%E9%A1%B9%E5%BC%8F/"/>
+    <id>https://zengfk.com.cn/2019/08/11/%E9%80%BC%E8%BF%91%E7%90%86%E8%AE%BA%E7%AE%80%E4%BB%8B-Bernstein-%E5%A4%9A%E9%A1%B9%E5%BC%8F/</id>
+    <published>2019-08-11T05:05:17.000Z</published>
+    <updated>2021-03-09T06:36:51.138Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;逼近理论缘起&quot;&gt;&lt;a href=&quot;#逼近理论缘起&quot; class=&quot;headerlink&quot; title=&quot;逼近理论缘起&quot;&gt;&lt;/a&gt;逼近理论缘起&lt;/h1&gt;&lt;p&gt;函数的最佳逼近问题起源于俄国数学家 P.L.切比雪夫. 1853 年, 当时切比雪夫正在研究关于将蒸汽引擎的线性运动转化为轮毂的圆周运动的联动装置的问题, 其中,他考虑了如下问题:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;给出定义在闭区间 $[a, b]$ 上的连续函数 $f$, 以及正整数 $n$, 是否能用最高不超过 $n$ 次的多项式函数 $\sum_{k=0}^{n}a_k x^k$ 来近似表示函数 $f$, 在区间上的任意一点处的误差在可控制的范围内? &lt;br&gt;&lt;br&gt;特别的, 我们是否能构造出多项式 $P(x)$ 使得误差 $\max_{a\leq x\leq b}|f(x)-P(X)|$ 最小?&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="分析学/Analysis" scheme="https://zengfk.com.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%88%86%E6%9E%90%E5%AD%A6-Analysis/"/>
+    
+    
+    <category term="最佳逼近" scheme="https://zengfk.com.cn/tags/%E6%9C%80%E4%BD%B3%E9%80%BC%E8%BF%91/"/>
+    
+    <category term="Bernstein 多项式" scheme="https://zengfk.com.cn/tags/Bernstein-%E5%A4%9A%E9%A1%B9%E5%BC%8F/"/>
+    
+  </entry>
+  
+</feed>
